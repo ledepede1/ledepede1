@@ -1,5 +1,2 @@
 [![C# Discord](https://badgen.net/discord/members/csharp)](https://discord.gg/csharp)
-
-<p align="left">
-  <https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp.svg>
-</p>
+[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
