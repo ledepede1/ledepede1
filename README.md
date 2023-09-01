@@ -6,7 +6,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg" alt=""></img>
+      <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg" alt="https://github.com/ledepede1"></img>
       <img width="900" height="1" alt="">
     </td>
   </tr>
