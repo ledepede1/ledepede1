@@ -1,7 +1,6 @@
 ![](https://dcbadge.vercel.app/api/shield/262550490909376512)
 <!--header-->
 <table>
-This is also the default template.</p>
 </td></tr>
   <tr>
   </tr>
