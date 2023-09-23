@@ -1,5 +1,5 @@
 # About Me
-<p>I'm currently learning Java but i know a little bit of Javascript and C#</p>
+<p>I'm currently learning ☕Java but i know a little bit of Javascript and C#</p>
 
 ## Github Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
