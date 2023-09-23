@@ -2,7 +2,10 @@
 <p>I'm currently learning Java☕ but i know a little bit of Javascript and C#</p>
 <p>I like to make scripts in FiveM both using Lua and C#</p>
 
-## Github Stats
+## Contact Me
+<p>You can contact me on Discord: ledepede1</p>
+
+### Github Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=ledepede1&card_width=500" />
 </a>
