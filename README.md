@@ -3,7 +3,7 @@
 <p>I like to make scripts in FiveM both using Lua and C#</p>
 
 ## Contact Me
-<p>You can contact me on Discord: ledepede1</p>
+You can contact me on Discord: **ledepede1**
 
 ### Github Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
