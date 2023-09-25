@@ -1,6 +1,7 @@
 # About Me
 <p>I'm currently learning Java☕ but i know a little bit of Javascript and C#</p>
 <p>I like to make scripts in FiveM both using Lua and C#</p>
+<p>Also having some fun with Minecraft Plugins in Java</p>
 
 ## Contact Me
 You can contact me on Discord: **ledepede1**
