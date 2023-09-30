@@ -13,7 +13,7 @@
 You can contact me on Discord: **ledepede1**
 
 ### Github Stats
-<div align="right">
+<div align="left">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=ledepede1&card_width=500" />
 </a>
