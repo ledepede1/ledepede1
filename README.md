@@ -20,4 +20,4 @@ You can contact me on Discord: **ledepede1**
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ledepede1&layout=compact&langs_count=8&card_width=350" />
 </a>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ledepede1&repo=PasswordGenerator-Gui)](https://github.com/ledepede1/PasswordGenerator-GUI)
+
