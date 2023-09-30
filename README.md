@@ -3,7 +3,8 @@
 <p></p>I like to make scripts in FiveM both using Lua and C#</p>
 <p>Also having some fun with Minecraft Plugins in Java</p>
 
-<iframe src="https://giphy.com/embed/jBD8cwdkAf4JQkJNFT" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/BYUCougars-byu-football-byufootball-jBD8cwdkAf4JQkJNFT">via GIPHY</a></p>
+
+<img src="https://giphy.com/gifs/BYUCougars-byu-football-byufootball-jBD8cwdkAf4JQkJNFT" alt="Computer man" style="width:48px;height:48px;">IPHY</a></p>
 
 ## Contact Me
 You can contact me on Discord: **ledepede1**
