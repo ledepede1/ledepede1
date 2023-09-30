@@ -4,7 +4,7 @@
 <p>Also having some fun with Minecraft Plugins in Java</p>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+  <img align="right" top="300" height="300" width="400" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 </a>
 
 
