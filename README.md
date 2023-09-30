@@ -13,7 +13,7 @@
 
 
 ## Contact Me
-You can contact me on Discord: **ledepede1**
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/262550490909376512)
 
 ### Github Stats
 <div align="left">
