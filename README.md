@@ -1,6 +1,6 @@
 # About Me
 <a target="_blank" align="center">
-  <img align="right" top="300" height="100" width="200" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+  <img align="right" right="100" top="300" height="100" width="200" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 </a>
 <p>I'm currently learning Java☕ but i know a little bit of Javascript and C#</p>
 <p></p>I like to make scripts in FiveM both using Lua and C#</p>
