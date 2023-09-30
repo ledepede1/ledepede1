@@ -7,6 +7,10 @@
 <p>Also having some fun with Minecraft Plugins in Java</p>
 
 
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 
 
 ## Contact Me
