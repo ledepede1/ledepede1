@@ -14,7 +14,7 @@
 
 ## 📧 Contact Me
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/262550490909376512)
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:twitchwiggie321@gmail.com)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mikkeldev0@gmail.com)
 <p>If you want to contact me quickly do it over Discord. I rarely check if email.</p>
 
 ### 📊 Github Stats
