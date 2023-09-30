@@ -3,7 +3,7 @@
 <p></p>I like to make scripts in FiveM both using Lua and C#</p>
 <p>Also having some fun with Minecraft Plugins in Java</p>
 
-![](https://github.com/ledepede1/coding.gif)
+![](https://github.com/ledepede1/ledepede1/coding.gif)
 
 ## Contact Me
 You can contact me on Discord: **ledepede1**
