@@ -5,7 +5,7 @@
 </a>  
 </div>
 
-<p>I'm currently learning Java and GO but i know a little bit of Javascript and C#</p>
+<p>I'm currently learning GO but i know a little bit of Javascript, Java and C#</p>
 <p></p>I like to make scripts in FiveM both using Lua and C#</p>
 <p>Also having some fun with Minecraft Plugins in Java</p>
 
