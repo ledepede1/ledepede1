@@ -5,8 +5,8 @@
 </a>  
 </div>
 
-<p>I currently know C#, GO, Java, lua and a little bit of Javascript
-I like to make scripts in FiveM both using Lua and C#
+<p>I currently know C#, GO, Java, lua and a little bit of Javascript</p>
+<p>I like to make scripts in FiveM both using Lua and C#
 Also having some fun with Minecraft Plugins in Java</p>
 
 
