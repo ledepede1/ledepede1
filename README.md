@@ -5,8 +5,8 @@
 </a>  
 </div>
 
-<p>I currently know C#, GO, Java, lua and a little bit of Javascript</p>
-<p>I like to make scripts in FiveM both using Lua and C#</p>
+<p>Im a young guy from denmark who loves to program usefull and useless stuff.
+I also like to do some fun things with engines.</p>
 
 
 
