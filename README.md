@@ -25,5 +25,5 @@
 </div>
 <div align="left">
 <img height=80 align="center" src="https://cdn.discordapp.com/attachments/1150078058703884396/1167783865843208192/goPng.png?ex=654f6279&is=653ced79&hm=b18f48a1b5ca6ee79c86b7a8ddefc65e5c475b8859eb08596dc058f57ab3d362"/>
-<img height=80 align="center" src="https://cdn.discordapp.com/attachments/1150078058703884396/1167784561585950730/cpng.png?ex=654f631f&is=653cee1f&hm=a7990d97e3fe089d2168231276bfb8837dd80cc95c182be4212e5facf60b5f88&"/>
+<img height=40 align="center" src="https://cdn.discordapp.com/attachments/1150078058703884396/1167784561585950730/cpng.png?ex=654f631f&is=653cee1f&hm=a7990d97e3fe089d2168231276bfb8837dd80cc95c182be4212e5facf60b5f88&"/>
 </div>
