@@ -23,5 +23,4 @@
   <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ledepede1&layout=compact&langs_count=8&card_width=350" />
 </a>  
 </div>
-
-![goPng](https://github.com/ledepede1/ledepede1/assets/142742362/0ac4e299-b3ea-444e-ace0-54623c5046bf)
+<img height=120 align="center" src="https://github.com/ledepede1/ledepede1/assets/142742362/0ac4e299-b3ea-444e-ace0-54623c5046b" />
