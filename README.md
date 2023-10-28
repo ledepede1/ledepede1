@@ -23,4 +23,4 @@
   <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ledepede1&layout=compact&langs_count=8&card_width=350" />
 </a>  
 </div>
-<img height=120 align="center" src="https://cdn.discordapp.com/attachments/1150078058703884396/1167783865843208192/goPng.png?ex=654f6279&is=653ced79&hm=b18f48a1b5ca6ee79c86b7a8ddefc65e5c475b8859eb08596dc058f57ab3d362&"/>
+<img height=80 align="center" src="https://cdn.discordapp.com/attachments/1150078058703884396/1167783865843208192/goPng.png?ex=654f6279&is=653ced79&hm=b18f48a1b5ca6ee79c86b7a8ddefc65e5c475b8859eb08596dc058f57ab3d362&"/>
