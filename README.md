@@ -8,6 +8,7 @@
 <p>Im a young guy from denmark who loves to program usefull and useless stuff.
 I also like to do some fun things with engines.</p>
 
+<p>Trying to get good at Go</p>
 
 
 
