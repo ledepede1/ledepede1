@@ -5,9 +5,7 @@
 </a>  
 </div>
 
-<p>Young guy from denmark.</p>
-
-<p>Trying to get good at Go</p>
+<p>Young guy from denmark. Loves backend but hate frontend primarly uses Go, C# and Lua.</p>
 
 
 
