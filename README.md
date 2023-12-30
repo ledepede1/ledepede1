@@ -5,7 +5,7 @@
 </a>  
 </div>
 
-<p>Young guy from denmark. Loves backend but hate frontend primarly uses Go, C# and Lua.</p>
+<p>Young guy from denmark. <br></br>Loves backend but hate frontend primarly uses Go, C# and Lua.</p>
 
 
 
