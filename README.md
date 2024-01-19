@@ -1,13 +1,5 @@
 # 👨‍💻 About Me
-<div align="center">
-<a target="_blank" align="center">
-  <img align="right" right="20" top="300" height="100" width="250" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-</a>  
-</div>
-
 <p>Young guy from denmark. Enjoy Backend Development, FiveM scripting and i primarily use Go, C# and Lua.</p>
-
-
 
 ## 📧 Contact Me
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/262550490909376512)
