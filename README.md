@@ -1,9 +1,6 @@
 # 👨‍💻 About Me
 <p>Young guy from denmark. Enjoy Backend Development and FiveM scripting and i primarily use Go, C# and Lua.</p>
 
-## 📧 Contact Me
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/262550490909376512)
-
 ### 📊 Github Stats
 <div align="left">
 <a href="https://github.com/anuraghazra/github-readme-stats">
